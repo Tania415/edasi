@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	scroll-behavior: smooth;
+}
+img{
+	max-width: 100%;
+}
+.navbar-brand{
+	width: 100px;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+header{
+    background: #ffffff;
+}
+.banner{
+    background-image: url(../images/ed.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-top: 80px;
+    background-position: top;
+    padding: 250px 0px;
+}
+.box1{
+    background: #ffffff82;
+    padding: 50px 50px !important;
+}
+.banner h2{
+    font-weight: 700;
+    font-size: 36px;
+    margin-top: 20px;
+    line-height: 60px;
+    color: black;
+}
+.banner p{
+    
+    font-weight: 500;
+    font-size: 19px !important;
+    color: black;
+}
+.banner h1{
+    font-weight: 400;
+    font-size: 36px;
+    margin-top: 20px;
+    line-height: 68px;
+    color: black;
+}
+
+.banner button{
+    border-radius: 1px;
+    padding: 6px 12px;
+    background: black;
+}
+.tabs{
+    padding: 10px 0px;
+}
+
+.tabs div div{
+    padding-bottom: 10px;
+}
+
+.tabs img{
+    border-radius: 6px;
+}
+.tabs span{
+    padding: 10px 0px;
+    display: inline-block;
+    opacity: 0.9;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.tabs hr{
+    
+    margin: auto;
+    width: 70px;
+    opacity: 1.0 !important;
+    color: #0d0c0cf7;
+}
+.tabs p{
+    padding: 10px;
+}
+
+.para{
+    padding: 50px 0px;
+}
+
+hr{
+ margin: 1rem 0;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: 1.25;
+}
+
+
+.HR{
+   
+    background-color: rgb(19 18 18);
+    width: 100%;
+    height: 3px;
+    margin-top: 11px;
+    margin-bottom: 9px;
+    opacity: 1.5;
+}
+
+.bg1{
+	background: url(../images/ph-0.jpg);
+	background-position: center;
+	background-size: cover;
+    background-position: top;
+}
+
+.banner2{
+    padding: 20px 0px;
+}
+.features{
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+.features h1{
+    font-size: 50px;
+    padding: 20px 27px;
+}
+
+.features h5{
+    padding: 5px 20px;
+    font-weight: 500;
+}
+.features h5 i{
+    padding: 0px 10px;
+}
+
+.para2{
+    padding: 10px 0px;
+}
+.para2 hr{
+    opacity: 1;
+}
+.para2 .featimg{
+    padding: 10px 0px;
+}
+
+.para2 p{
+    padding: 10px 0px;
+}
+
+footer{
+    padding: 10px 0px;
+}
+footer hr{
+    height: 2px !important;
+    opacity: 1;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.copyed{
+    padding-top: 22px;
+    font-weight: 600;
+    opacity: 0.9;
+    font-size: 15px;
+}
+
