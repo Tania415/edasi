@@ -11,9 +11,9 @@ img{
 	width: 100px;
 }
 
-.nav-item .nav-link {
+.nav-link {
     color: rgba(0,0,0,.55);
-    padding: 0 15px;
+    padding: 0 17px;
     font-weight: 500;
 }
 
